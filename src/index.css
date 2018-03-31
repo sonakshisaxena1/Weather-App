@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 250px;
+  font-family: sans-serif;
+  top:50%;
+  text-align: center;
+  font-size: 30px;
+ 
+}
+
+#heading{
+	text-align: center;
+	top:20%;
+	color: "Blue";
+
+}
